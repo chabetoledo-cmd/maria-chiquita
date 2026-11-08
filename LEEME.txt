@@ -1,0 +1,44 @@
+MARÍA CHIQUITA – BOUTIQUE DE COCINA Y HOGAR
+================================================
+
+CÓMO ABRIR LA TIENDA LOCAL
+1. Descomprime el archivo ZIP en una carpeta de tu computadora.
+2. Abre la carpeta maria_chiquita.
+3. Haz doble clic en index.html. Se abrirá en Chrome, Edge o Firefox.
+4. Para ver las fotografías, mantén conexión a Internet: las imágenes y las fuentes tipográficas se cargan desde servicios externos.
+
+FUNCIONES DE DEMOSTRACIÓN
+- Catálogo con categorías, búsqueda y orden por precio.
+- Productos de muestra con precios en USD.
+- Carrito con cantidades, eliminación y subtotal.
+- Cupón de demostración: MARIA15 o BIENVENIDA15.
+- Popup de bienvenida con formulario.
+- Suscripción al boletín.
+- Historia, preguntas frecuentes y políticas modelo.
+- Accesos de WhatsApp y preparación de pedido (requieren configurar número).
+
+PERSONALIZAR WHATSAPP
+Abre index.html con un editor de texto y busca:
+localStorage.getItem('mc_whatsapp')
+Para una prueba rápida, abre las herramientas del navegador (F12 > Console) y ejecuta:
+localStorage.setItem('mc_whatsapp','593XXXXXXXXX')
+Reemplaza por el número comercial en formato internacional, solo dígitos, sin + ni espacios. Recarga la página.
+
+IMPORTANTE
+- Fotografías, productos, precios, descuentos y textos son de demostración.
+- El descuento MARIA15 es ilustrativo y no crea un cupón real.
+- Los correos suscritos se guardan solamente en el almacenamiento local de ese navegador; no se envían a una plataforma de email.
+- El carrito se guarda localmente en el navegador.
+- No hay pagos reales, inventario compartido, administración multiusuario ni gestión de pedidos en servidor.
+- Las políticas son borradores generales. Completa los datos legales y comerciales y revisa su adecuación a la normativa ecuatoriana antes de publicar.
+- Cambia productos, fotografías, precios, correo, teléfono, dirección y redes sociales por los datos reales de tu negocio.
+
+
+ACTUALIZACIÓN DE DISEÑO
+La versión actual usa una dirección visual fresca, luminosa y juvenil, con verde botánico, coral y tonos claros.
+
+CHATBOT
+Se añadió un asistente local de respuestas automáticas sobre las categorías, productos de muestra, precios, pedidos y consultas frecuentes. No utiliza inteligencia artificial en la nube ni consulta inventario real; responde con reglas y datos incluidos en la página.
+
+WHATSAPP
+Se configuró el número 0960958639 en formato internacional +593960958639 para consultas y preparación de pedidos.
